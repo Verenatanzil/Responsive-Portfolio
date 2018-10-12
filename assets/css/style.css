@@ -205,6 +205,13 @@ input[type=submit]:hover {
     margin: 20px 20px -30px 0px;
 }
 
+.portlink{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    text-align: center;
+}
+
 h3{
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: #4aaaa5;
@@ -256,7 +263,7 @@ h3{
     }
 
 }
-
+/* 
 @media only screen and (max-width: 768px) {
     body{
         font-family: Arial, Helvetica, sans-serif;
@@ -270,7 +277,6 @@ h3{
     .header{
         font-family: Georgia, 'Times New Roman', Times, serif;
         font-size: 25px;
-        /* width: 100%; */
         background-color: #ffffff;
         border-bottom: 2px solid #cccccc;
     }
@@ -354,9 +360,9 @@ h3{
         height: 15px;
         bottom: 0;
       }
-  }
+  } */
 
-  @media only screen and (max-width: 696px) {
+  @media only screen and (max-width: 720px) {
     body{
         font-family: Arial, Helvetica, sans-serif;
         font-size: 16px;
